@@ -1,0 +1,1 @@
+# No external dependencies are required for this project, pure Python standard library is used.
