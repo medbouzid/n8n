@@ -1,1 +1,1 @@
-# No external dependencies are required for this project, pure Python standard library is used.
+pytest # No external dependencies are required for this project, pure Python standard library is used.
